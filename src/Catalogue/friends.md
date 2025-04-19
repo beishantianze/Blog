@@ -103,7 +103,7 @@ author:
 <VPCard
   title="Tianze"
   desc="𝑾𝒉𝒂𝒕 𝒊𝒔 𝒎𝒊𝒏𝒅? 𝑵𝒐 𝒎𝒂𝒕𝒕𝒆𝒓.𝑾𝒉𝒂𝒕 𝒊𝒔 𝒎𝒂𝒕𝒕𝒆𝒓? 𝑵𝒆𝒗𝒆𝒓 𝒎𝒊𝒏𝒅."
-  logo="https://tianz.us.kg/images/schwarz.jpeg"
-  link="https://tianz.us.kg/"
+  logo="https://tianz.dpdns.org/images/schwarz.jpeg"
+  link="https://tianz.dpdns.org/"
   background="rgba(91,194,231,1.00)"
 />
