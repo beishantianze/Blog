@@ -123,3 +123,11 @@ author:
   link="https://xhblog.top/"
   background="rgba(253, 230, 138, 0.15)"
 />
+
+<VPCard
+  title="Tianz"
+  desc="苟利国家生死以 岂因祸福避趋之"
+  logo="https://gendo.dpdns.org/img/schwarz.jpeg"
+  link="https://gendo.dpdns.org/"
+  background="rgba(124,252,100,0.3)"
+/>
